@@ -1,0 +1,23 @@
+/* TEAM */
+  Developers: Mehul Kothari 
+  Designers: MK
+  Contributors: [MK]
+
+/* TECHNOLOGY */
+  Standards: HTML5, CSS3, PHP, JAVA
+  Components: jQuery, Orbit, Reveal
+  Software: Atom, Git, Sass
+
+/* THANKS */
+  Special thanks to our users and supporters!
+
+/* SITE */
+  Site: Your Ecommerce Website
+  URL: https://www.blacki.co.in
+  Email: mehulkothariofficial@gmail.com
+  Twitter: @YourWebsite
+  GitHub: github.com/gitdevmk
+
+
+/* COPYRIGHT */
+  Copyright © 2024 Blackcat India. All rights reserved.

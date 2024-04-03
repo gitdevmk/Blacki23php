@@ -1,0 +1,57 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+
+# Directories to disallow
+Disallow: /private/  # Prevent crawling of private or sensitive content
+Disallow: /temp/     # Avoid crawling temporary files or directories
+Disallow: /admin/    # Restrict access to administrative sections
+
+# Allow crawling of important directories
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+# Crawling frequency and delay
+Crawl-delay: 5       # Set a crawl delay of 5 seconds between requests
+
+# Page-level indexing directives
+Disallow: /checkout/  # Prevent indexing of checkout pages
+Disallow: /cart/      # Avoid indexing the shopping cart
+Disallow: /account/   # Restrict indexing of user accounts
+
+# Disallow specific query parameters
+Disallow: /*?sort=*
+Disallow: /*?filter=*
+
+# Allow crawling of product pages
+Allow: /product/
+Allow: /category/
+
+# Allow crawling of important files
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.pdf$
+
+# Specify the location of your sitemap (if you have one)
+# Sitemap: https://www.yourwebsite.com/sitemap.xml
+
+# Specify the preferred version of your website (www or non-www)
+# Host: www.yourwebsite.com
+
+# Specify the preferred version of your website (https or http)
+# Host: https://www.yourwebsite.com
+
+# Canonicalization
+# Specify the preferred version of a non-canonical URL
+# Canonical: https://www.yourwebsite.com/preferred-version/
+
+# Custom rules for specific bots or user-agents
+# User-agent: BadBot
+# Disallow: /
+
+# Language targeting
+# Allow: /en/
+# Disallow: /fr/
+# Disallow: /es/

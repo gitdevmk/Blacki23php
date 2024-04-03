@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- About Page -->
+    <url>
+        <loc>https://www.yourwebsite.com/about.php</loc>
+        <lastmod>2024-01-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Products Page -->
+    <url>
+        <loc>https://www.yourwebsite.com/products.php</loc>
+        <lastmod>2024-01-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- View Cart Page -->
+    <url>
+        <loc>https://www.yourwebsite.com/cart.php</loc>
+        <lastmod>2024-01-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- My Orders Page -->
+    <url>
+        <loc>https://www.yourwebsite.com/orders.php</loc>
+        <lastmod>2024-01-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+    <!-- Contact Page -->
+    <url>
+        <loc>https://www.yourwebsite.com/contact.php</loc>
+        <lastmod>2024-01-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Blog Page -->
+    <url>
+        <loc>https://www.yourwebsite.com/blog.php</loc>
+        <lastmod>2024-01-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Trivia Page -->
+    <url>
+        <loc>https://www.yourwebsite.com/funzone.php</loc>
+        <lastmod>2024-01-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Individual Trivia Pages -->
+    <url>
+        <loc>https://www.yourwebsite.com/funzone/dtp.html</loc>
+        <lastmod>2024-01-29</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <!-- Repeat similar entries for other trivia pages -->
+
+</urlset>

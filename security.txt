@@ -1,0 +1,14 @@
+# Contact Information
+Contact: mailto:mehulkothariofficial@gmail.com
+
+# Encryption
+Encryption: https://www.example.com/pgp-key.txt
+
+# Acknowledgments
+Acknowledgments: https://www.example.com/security-acknowledgments
+
+# Preferred Language
+Preferred-Languages: en
+
+# Policy
+Policy: https://www.example.com/security-policy
