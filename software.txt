@@ -1,0 +1,7 @@
+download from  https://www.synaptics.com/products/displaylink-graphics
+
+other drivers like usb to hdmi/vga etc : https://drive.google.com/drive/folders/1ljKGEixOA5HShpl0Az1jABXA0lL3n0wJ
+
+for usb to rs232 (PL2303 chipset) : https://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41
+
+edited and maintained by mk, sponsored by BLACKCAT INDIA PVT LTD.
