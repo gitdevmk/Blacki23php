@@ -1,0 +1,40 @@
+/* Add your custom styles here */
+
+/* Center the form on the page */
+.registration-form {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+/* Style form inputs and labels */
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="checkbox"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+/* Style form buttons */
+.button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.button.primary {
+    background-color: #0078A0;
+    color: #fff;
+}
+
+.button.secondary {
+    background-color: #ddd;
+    color: #333;
+}
